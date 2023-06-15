@@ -3,4 +3,4 @@ just a demo of how it works, angular's implementation of [family-chart](https://
 
 code [here](https://github.com/rbb-soft/family-chart-angular-demo)
 
-live [demo](https://rbb-soft.github.io/family-chart-live-demo/)
+live [demo](https://rbb-soft.github.io/family-chart-angular-live-demo/)
